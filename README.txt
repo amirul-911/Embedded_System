@@ -1,1 +1,1 @@
-Arduino example
+Arduino-based code
